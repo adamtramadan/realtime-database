@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "811114497469",
+    "project_id": "realtime-database-30cad",
+    "storage_bucket": "realtime-database-30cad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811114497469:android:079eb30e0e261622793ed4",
+        "android_client_info": {
+          "package_name": "com.example.realtimedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811114497469-qop0eglk6uvse6a2vaujpnk5no2sq178.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHaB2kd5pOO_MplIjbFFwlQtqI6JKq9Zs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811114497469-qop0eglk6uvse6a2vaujpnk5no2sq178.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
